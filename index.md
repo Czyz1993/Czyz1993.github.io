@@ -2,11 +2,20 @@
 layout: default
 title: Do You Remember Stuxnet?
 ---
-# Do You Remember Stuxnet?
+<div class="hero">
+  <p class="eyebrow">CYBERSECURITY · ICS · MITRE ATT&CK</p>
 
-*How a cyberattack crossed the boundary between cyberspace and the physical world.*
+  <h1>Do You Remember Stuxnet?</h1>
 
-**Cybersecurity · ICS · MITRE ATT&CK**
+  <p class="subtitle">
+    A technical examination of Stuxnet, MITRE ATT&CK,
+    and Manipulation of Control.
+  </p>
+
+  <div class="hero-line"></div>
+
+  <p class="author">Parker Czyz · 2026</p>
+</div>
 
 ![Stuxnet](assets/stuxnet_1.jpg)
 
