@@ -103,3 +103,5 @@ They can manipulate the systems that control the physical world.
 [7] S. D. Team, “ICS Logic Manipulation: Essential guide for System Security,” Startup Defense, Jun. 21, 2026. https://www.startupdefense.io/cyberattacks/ics-logic-manipulation
 
 [8] “What is IT? Information technology explained,” Cisco, May 21, 2026. https://www.cisco.com/site/us/en/learn/topics/networking/what-is-information-technology-it.html
+
+https://chatgpt.com/share/6aa4aac3-ab20-83ea-b264-846c13842950
