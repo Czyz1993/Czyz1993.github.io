@@ -92,11 +92,19 @@ They can manipulate the systems that control the physical world.
 ## References
 
 [1] J. Fruhlinger, “Stuxnet explained: The first known cyberweapon,” CSO Online, Aug. 31, 2022. https://www.csoonline.com/article/562691/stuxnet-explained-the-first-known-cyberweapon.html
+
 [2] “Stuxnet, Software S0603 | MITRE ATT&CK®.” https://attack.mitre.org/software/S0603/
+
 [3] “Manipulation of Control, Technique T0831 - ICS | MITRE ATT&CK®.” https://attack.mitre.org/techniques/T0831/
+
 [4] G. L. M. Kosinski, “What is a man-in-the-middle (MITM) attack?,” Nov. 17, 2025. https://www.ibm.com/think/topics/man-in-the-middle
+
 [5] “What is spoofing?,” Cisco, Jun. 12, 2026. https://www.cisco.com/site/us/en/learn/topics/security/what-is-spoofing.html
+
 [6] T. R. Kuphaldt, “The Stuxnet virus,” Cyber-security in Industrial Measurement and Control Systems | Textbook, Dec. 02, 2019. https://control.com/textbook/instrumentation-cyber-security/stuxnet/?utm_source=chatgpt.com
+
 [7] S. D. Team, “ICS Logic Manipulation: Essential guide for System Security,” Startup Defense, Jun. 21, 2026. https://www.startupdefense.io/cyberattacks/ics-logic-manipulation
+
 [8] “What is IT? Information technology explained,” Cisco, May 21, 2026. https://www.cisco.com/site/us/en/learn/topics/networking/what-is-information-technology-it.html
-https://chatgpt.com/share/6aa4aac3-ab20-83ea-b264-846c13842950
+
+https://chatgpt.com/share/6aa4aefe-9c18-83ea-a801-bde05176fb1b
