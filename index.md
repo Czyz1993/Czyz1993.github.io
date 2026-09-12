@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Do You Remember Stuxnet?
--------------------------------
+---
 
 <div class="hero">
   <p class="eyebrow">CYBERSECURITY · ICS · MITRE ATT&CK</p>
