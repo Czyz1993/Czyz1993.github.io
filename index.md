@@ -1,5 +1,4 @@
 ---
-
 layout: default
 title: Do You Remember Stuxnet?
 -------------------------------
