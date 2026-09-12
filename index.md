@@ -8,6 +8,8 @@ title: Do You Remember Stuxnet?
 
 **Cybersecurity · ICS · MITRE ATT&CK**
 
+![Stuxnet](assets/stuxnet_1.jpg)
+
 ---
 
 ## What Is Stuxnet?
@@ -21,6 +23,8 @@ title: Do You Remember Stuxnet?
   Stuxnet was the first publicly reported malware that specifically targeted industrial control systems devices. While Stuxnet uses over 60 MITRE ATT&CK techniques, the actions that caused physical damage were the specific manipulation of control – applying inappropriate command sequences and parameters – that caused damage to property [2][3]. There are three methods of manipulating control.
   Methods for Manipulation of Control are man-in-the-middle attacks, spoofed command messages, and changing setpoints. A man-in-the-middle (MITM) attack is a cyberattack in which hackers intercept communications between two online targets to push commands, steal information, or perform actions by eavesdropping on communications between two online targets, such as a user and a web application [4]. Next, a spoof command message, more commonly known as Spoofing, is a cybercriminal activity in which a cybercriminal forges the sender’s information and pretends to be a legitimate source to gain access to personal information, money, or data [5]. Lastly, changing setpoints occurs when a cyber attacker changes the setpoint values of process variables normally set by operators or control systems, such as changing temperature, pressure, flow rate, or speed [3].  
   Stuxnet’s payload used a man-in-the-middle method to infect the programmable logic controller (PLC) systems that controlled the centrifuges, then changed setpoints to destroy enriched uranium. Specifically, Stuxnet gained access by infecting a computer running Siemens Step7 PLC programming; it then corrupted the Step7 software by changing any PLC program downloaded, so the code being programmed differed from the code being seen. Therefore, the “man” is the Step7 software that altered any PLC code the user tried to program/maintain before transferring it to the PLC [6]. The PLC program pushed to the centrifuge system would then increase the speed - changing the setpoints - of the centrifuge until the enriched uranium was destroyed.
+
+![MITRE ATT&CK Technique Descriptor](assets/'ICS Mainpulation of Control.png')
 
 ---
 
@@ -46,6 +50,8 @@ title: Do You Remember Stuxnet?
 ## Why is Stuxnet Important?
 
   Traditionally, cyber-attacks are seen as criminal hacking into a system and stealing sensitive, personal information. However, Stuxnet opened the eyes of the general public that cyber-attacks can encompass more than just stealing data – that’s only a third of the CIA triad (confidentiality, integrity, and availability). Stuxnet struck the Iranian nuclear weapons development system’s integrity. For the U.S. and the Iranian governments to accomplish their mission, they did not have to steal the Iranian nuclear research to accomplish their missions, instead, the attack manipulated the integrity of the Iranian control system and caused physical damage.
+
+![CIA Triad](assets/CIA_Triad.jpg)
 
 ### The CIA Triad
 
